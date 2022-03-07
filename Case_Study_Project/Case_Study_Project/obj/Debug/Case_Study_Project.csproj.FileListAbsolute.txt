@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Case_Study_Project\Case_Study_Project\bin\Debug\Case_Study_Project.exe.config
+C:\Users\hp\source\repos\Case_Study_Project\Case_Study_Project\bin\Debug\Case_Study_Project.exe
+C:\Users\hp\source\repos\Case_Study_Project\Case_Study_Project\bin\Debug\Case_Study_Project.pdb
+C:\Users\hp\source\repos\Case_Study_Project\Case_Study_Project\obj\Debug\Case_Study_Project.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Case_Study_Project\Case_Study_Project\obj\Debug\Case_Study_Project.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Case_Study_Project\Case_Study_Project\obj\Debug\Case_Study_Project.exe
+C:\Users\hp\source\repos\Case_Study_Project\Case_Study_Project\obj\Debug\Case_Study_Project.pdb
