@@ -1,0 +1,49 @@
+﻿@model IEnumerable<WebApplication4.Models.movietable>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+<form method="get" asp-action="Index">
+    <p>
+        <input type="search" placeholder="Enter movie name or release date..."value="@ViewData["Getmoviedate"]"name="Empsearch"style="width:500px;"/>
+        <input type="submit" value="search" class="btn btn-primary"/>
+        <a asp-action="Index">Get All Movies</a>
+
+    </p>
+
+</form>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.moviename)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.dateofrelease)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.moviename)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.dateofrelease)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.mid }) |
+            @Html.ActionLink("Details", "Details", new { id=item.mid }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.mid })
+        </td>
+    </tr>
+}
+
+</table>
