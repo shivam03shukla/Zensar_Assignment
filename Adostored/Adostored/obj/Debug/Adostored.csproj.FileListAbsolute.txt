@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Adostored\Adostored\bin\Debug\Adostored.exe.config
+C:\Users\hp\source\repos\Adostored\Adostored\bin\Debug\Adostored.exe
+C:\Users\hp\source\repos\Adostored\Adostored\bin\Debug\Adostored.pdb
+C:\Users\hp\source\repos\Adostored\Adostored\obj\Debug\Adostored.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Adostored\Adostored\obj\Debug\Adostored.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Adostored\Adostored\obj\Debug\Adostored.exe
+C:\Users\hp\source\repos\Adostored\Adostored\obj\Debug\Adostored.pdb
